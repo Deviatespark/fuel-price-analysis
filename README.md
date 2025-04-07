@@ -56,8 +56,8 @@ The resulting histogram saved as `price_distribution_MADRID.png` shows the price
 
 Detailed reports summarizing the methodology, data transformation, analysis, and results are available below:
 
-- 📘 [Read the full report in English](EN_fuel_price_analysis_Sergio_Galvez.pdf)
-- 📙 [Leer el informe completo en español](ES_fuel_price_analysis_Sergio_Galvez.pdf)
+- 📘 [Read the full report in English](report/EN_fuel_price_analysis_Sergio_Galvez.pdf)
+- 📙 [Leer el informe completo en español](report/ES_fuel_price_analysis_Sergio_Galvez.pdf)
 
 ---
 
